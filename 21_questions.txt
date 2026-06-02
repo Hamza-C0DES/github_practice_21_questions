@@ -17,7 +17,7 @@ Write your yes/no question on each line, then check the host's answer.
 
  1. A: [X] Yes  [ ] No   Q: Do people use it in their daily lives?
  2. A: [ ] Yes  [X] No   Q:do people eat it?
- 3. A: [ ] Yes  [ ] No   Q: 
+ 3. A: [ ] Yes  [ ] No   Q:Is it portable?
  4. A: [ ] Yes  [ ] No   Q: 
  5. A: [ ] Yes  [ ] No   Q: 
  6. A: [ ] Yes  [ ] No   Q: 
