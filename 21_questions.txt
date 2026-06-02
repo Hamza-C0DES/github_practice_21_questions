@@ -7,7 +7,7 @@ HOST   (the one with the secret):  Hamza
 DATE:                              06/02/2026
 
 
-SECRET CATEGORY (host fills in): [ ] Person  [ ] Place  [ ] Thing  [ ] Animal
+SECRET CATEGORY (host fills in): [ ] Person  [ ] Place  [X] Thing  [ ] Animal
 
 
 ------------------------------------------
