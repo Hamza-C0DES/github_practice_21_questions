@@ -39,9 +39,9 @@ Write your yes/no question on each line, then check the host's answer.
 
 
 ------------------------------------------
-              FINAL GUESS
+              YOUR ANSWER
 ------------------------------------------
-My guess is: ______________________________________
+My guess is: ___Wallet___________________________________
 
 RESULT:  [ ] Correct!   [ ] Incorrect
 
