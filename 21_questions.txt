@@ -27,15 +27,15 @@ Write your yes/no question on each line, then check the host's answer.
 10. A: [ ] Yes  [X] No   Q: does it need wifi?
 11. A: [ ] Yes  [X] No   Q: does it need to be charged?
 12. A: [ ] Yes  [X] No   Q: is it related to technology?
-13. A: [ ] Yes  [ ] No   Q: 
-14. A: [ ] Yes  [ ] No   Q: 
-15. A: [ ] Yes  [ ] No   Q: 
-16. A: [ ] Yes  [ ] No   Q: 
-17. A: [ ] Yes  [ ] No   Q: 
-18. A: [ ] Yes  [ ] No   Q: 
-19. A: [ ] Yes  [ ] No   Q: 
-20. A: [ ] Yes  [ ] No   Q: 
-21. A: [ ] Yes  [ ] No   Q: 
+13. A: [ ] Yes  [ ] No   Q: do people use it daily?
+14. A: [ ] Yes  [ ] No   Q: how often do you use it?
+15. A: [ ] Yes  [ ] No   Q: does it require batteries?
+16. A: [ ] Yes  [ ] No   Q: do is require energy?
+17. A: [ ] Yes  [ ] No   Q: is it used to manipulate something?
+18. A: [ ] Yes  [ ] No   Q: is it used as decoration?
+19. A: [ ] Yes  [ ] No   Q: is it necessary in your daily life?
+20. A: [ ] Yes  [ ] No   Q: is this thing moved around alot?
+21. A: [ ] Yes  [ ] No   Q: do most people have it?
 
 
 ------------------------------------------
