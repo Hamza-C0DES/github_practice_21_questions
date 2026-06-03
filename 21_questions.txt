@@ -20,9 +20,9 @@ Write your yes/no question on each line, then check the host's answer.
  3. A: [X] Yes  [ ] No   Q:Is it portable?
  4. A: [X] Yes  [ ] No   Q: Do men use it mostly? 
  5. A: [X] Yes  [ ] No   Q: Do women mostly use it?
- 6. A: [ ] Yes  [ ] No   Q: is it kept in the living room?
- 7. A: [ ] Yes  [ ] No   Q: is it used for entertainment?
- 8. A: [ ] Yes  [ ] No   Q: is it kept in the bathroom?
+ 6. A: [ ] Yes  [X] No   Q: is it kept in the living room?
+ 7. A: [ ] Yes  [X] No   Q: is it used for entertainment?
+ 8. A: [ ] Yes  [X] No   Q: is it kept in the bathroom?
  9. A: [ ] Yes  [ ] No   Q: 
 10. A: [ ] Yes  [ ] No   Q: 
 11. A: [ ] Yes  [ ] No   Q: 
