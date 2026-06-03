@@ -23,10 +23,10 @@ Write your yes/no question on each line, then check the host's answer.
  6. A: [ ] Yes  [X] No   Q: is it kept in the living room?
  7. A: [ ] Yes  [X] No   Q: is it used for entertainment?
  8. A: [ ] Yes  [X] No   Q: is it kept in the bathroom?
- 9. A: [ ] Yes  [ ] No   Q: is it a device?
-10. A: [ ] Yes  [ ] No   Q: does it need wifi?
-11. A: [ ] Yes  [ ] No   Q: does it need to be charged?
-12. A: [ ] Yes  [ ] No   Q: is it related to technology?
+ 9. A: [ ] Yes  [X] No   Q: is it a device?
+10. A: [ ] Yes  [X] No   Q: does it need wifi?
+11. A: [ ] Yes  [X] No   Q: does it need to be charged?
+12. A: [ ] Yes  [X] No   Q: is it related to technology?
 13. A: [ ] Yes  [ ] No   Q: 
 14. A: [ ] Yes  [ ] No   Q: 
 15. A: [ ] Yes  [ ] No   Q: 
